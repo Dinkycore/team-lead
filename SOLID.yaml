@@ -1,0 +1,5 @@
+block1: 'Нарушение Open/Closed Principle Принцип открытости/закрытости'
+block2: 'Нарушение Interface Segregation Principle Принцип разделения интерфейсов'
+block3: 'Нарушение Single Responsibility Principle Принцип единственной ответственности'
+block4: 'Нарушение Dependency Inversion Principle Принцип инверсии зависимостей'
+block5: 'Нарушение Liskov Substitution Principle Принцип подстановки Лисков'
